@@ -1,2 +1,2 @@
 # Profile-CaNhan
-Đây chỉ là dự án profile cần giấy phép bản quyền
+Vui lòng tôn trọng không xóa tên tác giả
