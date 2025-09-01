@@ -1,2 +1,2 @@
-# Profile-C-Nh-n
-Profile cá nhân nhiều hiệu ứng đẹp
+# Profile-CaNhan
+Đây chỉ là dự án profile cần giấy phép bản quyền
